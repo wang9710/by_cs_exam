@@ -14,6 +14,7 @@ import java.util.List;
  * Created by Administrator on 2019/01/21.
  */
 @Controller
+
 @RequestMapping("user")
 public class UserController {
 

@@ -1,8 +1,11 @@
 package com.examine.beyondsoft_qf.model;
 
+import org.springframework.stereotype.Repository;
+
 /**
  * Created by Administrator on 2019/01/21.
  */
+@Repository
 public class User {
     /** 主键 */
     private Integer id;
